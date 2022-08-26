@@ -1,4 +1,14 @@
-# readmeGen
+# readmegenerator
 
-# heh
-![license badge](https://img.shields.io/badge/license-GNU%20General%20Public%20License%20v3.0-blue)
+1. [Description](#description)
+2. [Install Instructions](#install-instructions)
+3. [Usage Information](#usage-information)
+
+
+## Description
+makes a README
+## Install Instructions
+npm install
+## Usage Information
+making README
+
